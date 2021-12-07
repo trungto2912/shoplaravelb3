@@ -25,7 +25,7 @@
 </head><!--/head-->
 
 <body>
-    @include('elements.top')
+    
     
     @include('elements.slide')
     
